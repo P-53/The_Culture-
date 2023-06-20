@@ -1,7 +1,4 @@
-# The_Culture-
-#This was the code I wrote for one of my classes for single cell analysis of a graduate student data. The data is from this paper https://www.biorxiv.org/content/10.1101/2023.03.17.533129v1 
-5-1-2023
- https://satijalab.org/seurat/articles/pbmc3k_tutorial.html this help me alot with the code and doing this type of work. 
+# The_Culture
+#This repository is just my student  projects for code that I wish to make available to the general most of it is going to be in R as it's the only programming language that I have experience with.
 
-note: The code that was used to cluster cell types together was optimized for mouse cell ,not zebra fish cells this was done because there's no code exists to group this cell clusters together for zebrafish.
-
+#1.SC_RNA stuff: Single cell_RNA_analysis code i made in R.
